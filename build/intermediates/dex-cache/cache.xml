@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/arter97/AndroidStudioProjects/GravityBox/app/libs/XposedBridgeApi.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7c15b5f3cd3bd23c20465c8971b0b78a8ee69108">
+        <dex dex="/home/arter97/AndroidStudioProjects/GravityBox/app/build/intermediates/pre-dexed/release/XposedBridgeApi_f255e0f951e6db8459d291f15b274ccd63cf453d.jar" />
+    </item>
+
+</items>
