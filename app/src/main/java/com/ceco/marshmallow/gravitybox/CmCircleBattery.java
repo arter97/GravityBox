@@ -329,7 +329,7 @@ public class CmCircleBattery extends ImageView implements IconManagerListener, B
     private void initSizeMeasureIconHeight() {
         final Resources res = getResources();
         mCircleSize = Math.round(TypedValue.applyDimension(
-                TypedValue.COMPLEX_UNIT_DIP, Utils.isSamsungRom() ? 15 : 17,
+                TypedValue.COMPLEX_UNIT_DIP, Utils.isSamsungRom() ? 12 : 17,
                 res.getDisplayMetrics()));
         mCircleSize = Math.round(mCircleSize / 2f) * 2;
         if (DEBUG) log("mCircleSize = " + mCircleSize + "px");
